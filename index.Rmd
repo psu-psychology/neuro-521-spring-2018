@@ -1,0 +1,36 @@
+---
+name: ""
+---
+
+# NEURO 521 • Systems Neuroscience
+
+<a href="https://www.frontiersin.org/journals/systems-neuroscience">
+<img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-systems-neuroscience.png" width=200px/>
+</a>
+
+Welcome to the web site for Rick Gilmore's portion of NEURO 521, Spring 2018. 
+We'll focus on visual neuroscience, with a slight excursion at the end.
+You may find the schedule of class meetings and reading assignment information [here](schedule.html).
+
+## Instructor
+
+Rick O. Gilmore, Ph.D.</br>
+Associate Professor of Psychology</br>
+114 Moore Building</br>
+
++1 (814) 865-3664</br>
+rogilmore AT psu DOT edu</br>
+[Schedule an appointment](http://doodle.com/rickgilmore)</br>
+
+[http://www.personal.psu.edu/rog1](http://www.personal.psu.edu/rog1)</br>
+[http://gilmore-lab.github.io](http://gilmore-lab.github.io)</br>
+[http://databrary.org](http://databrary.org)
+
+## Meeting Times and Location
+
+Tue, January 30, 2018, 3:05-4:20p, 322 Boucke</br>
+Thu, February 1, 2018, 3:05-4:20p, 322 Boucke</br>
+Tue, February 6, 2017, 3:05-4:20p, 322 Boucke</br>
+Thu, February 8, 2017, 3:05-4:20p, 322 Boucke</br>
+Tue, February 13, 2017, 3:05-4:20p, 322 Boucke</br>
+

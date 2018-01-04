@@ -1,0 +1,15 @@
+name: "NEURO 521"
+navbar:
+  title: "NEURO 521 • 2018 • Gilmore"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
+    include:
+      after_body: footer.html

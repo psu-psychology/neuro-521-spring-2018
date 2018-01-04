@@ -1,0 +1,82 @@
+---
+name: ""
+---
+
+# Schedule
+
+The schedule of class meeting dates and reading assignments are indicated below. 
+If you don't mind grabbing your own copies of the articles from the indicated links, then the library will have a more accurate record of how many subscribers we have to these journals. 
+As an alternative, the readings are also available on Canvas.
+
+### Tue, January 30, 2018 • What does visual cortex do?
+
+Wandell, B. A., Dumoulin, S. O., & Brewer, A. A. (2007). Visual field maps in human cortex. *Neuron*, *56*(2), 366–383. Retrieved from http://dx.doi.org/10.1016/j.neuron.2007.10.012
+
+#### Optional
+
+Hubel, D. H. (1982). Exploration of the primary visual cortex, 1955-78. *Nature*, *299*(5883), 515–524. http://neurosciences.us/courses/systems/CentralVision/hubel82.pdf.
+
+Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction and functional architecture in the cat’s visual cortex. *The Journal of Physiology*, *160*(1), 106–154. https://doi.org/10.1113/jphysiol.1962.sp006837
+
+Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.
+
+<!-- #### Lecture notes -->
+
+<!-- [html](lecture-notes/2017-02-21.html)</br> -->
+<!-- [Rmd](lecture-notes/2017-02-21.Rmd) -->
+
+### Thu, February 1, 2018 • Face processing
+
+Kanwisher, N., McDermott, J., & Chun, M. M. (1997). The fusiform face area: a module in human extrastriate cortex specialized for face perception. *The Journal of Neuroscience: The official journal of the Society for Neuroscience*, *17*(11), 4302–4311. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/9151747
+
+#### Optional
+
+Behrmann, M., & Plaut, D. C. (2013). Distributed circuits, not circumscribed centers, mediate visual recognition. *Trends in Cognitive Sciences*, *17*(5), 210–219. Retrieved from http://dx.doi.org/10.1016/j.tics.2013.03.007
+
+Perrett, D. I., Rolls, E. T., & Caan, W. (1982). Visual neurones responsive to faces in the monkey temporal cortex. *Experimental Brain Research*, *47*(3), 329–342. https://doi.org/10.1007/BF00239352
+
+<!-- #### Lecture notes -->
+
+<!-- [html](lecture-notes/2017-02-21.html)</br> -->
+<!-- [Rmd](lecture-notes/2017-02-21.Rmd) -->
+
+### Tue, February 6, 2018 • Perception vs. action
+
+Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurological dissociation between perceiving objects and grasping them. *Nature*, *349*(6305), 154–156. https://doi.org/10.1038/349154a0
+
+#### Optional
+
+Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and action. *Trends in Neurosciences*, *15*(1), 20–25. https://doi.org/10.1016/0166-2236(92)90344-8
+
+<!-- #### Lecture notes -->
+
+<!-- [html](lecture-notes/2017-02-23.html)</br> -->
+<!-- [Rmd](lecture-notes/2017-02-23.Rmd) -->
+
+### Tue, February 8, 2017 • "Reading" the mind via fMRI
+
+Kay, K. N., Naselaris, T., Prenger, R. J., & Gallant, J. L. (2008). Identifying natural images from human brain activity. *Nature*, *452*(7185), 352–355. https://doi.org/10.1038/nature06713. [Supplemental materials](http://www.nature.com/nature/journal/v452/n7185/extref/nature06713-s1.pdf).
+
+#### Optional
+
+Kay, K. N., & Gallant, J. L. (2009). I can see what you see. *Nature Neuroscience*, *12*(3), 245–245. https://doi.org/10.1038/nn0309-245
+
+DeYoe, E. A., Bandettini, P., Neitz, J., Miller, D., & Winans, P. (1994). Functional magnetic resonance imaging (fMRI) of the human brain. *Journal of Neuroscience Methods*, *54*(2), 171–187. http://doi.org/10.1016/0165-0270(94)90191-0
+
+<!-- #### Lecture notes -->
+
+<!-- [html](lecture-notes/2017-02-28.html)</br> -->
+<!-- [Rmd](lecture-notes/2017-02-28.Rmd) -->
+
+### Tues, February 13, 2018 • Does neuroscience need behavior?
+
+Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. *Neuron*, *93*(3), 480–490. Retrieved from http://dx.doi.org/10.1016/j.neuron.2016.12.041
+
+#### Optional
+
+Jonas, E., & Kording, K. P. (2017). Could a neuroscientist understand a microprocessor? *PLoS Computational Biology*, *13*(1), e1005268. Public Library of Science. Retrieved January 3, 2018, from http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005268&type=printable
+
+<!-- #### Lecture notes -->
+
+<!-- [html](lecture-notes/2017-02-28.html)</br> -->
+<!-- [Rmd](lecture-notes/2017-02-28.Rmd) -->
