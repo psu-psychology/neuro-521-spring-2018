@@ -20,6 +20,18 @@ Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction an
 
 Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.
 
+#### Assignment details
+
+**Discuss:**
+
+What are visual field maps? How are they measured or acquired? How does this method compare with single unit recordings? What do visual field maps tell us about the function of visual cortex?
+
+As a reminder, your writing assignment document should be:
+- 1 full page, single-spaced
+- size 11 font, reasonable borders (<=1 inch)
+- without your name on the document or in filename
+- upload your text via Turnitin
+
 <!-- #### Lecture notes -->
 
 <!-- [html](lecture-notes/2017-02-21.html)</br> -->
@@ -35,6 +47,12 @@ Behrmann, M., & Plaut, D. C. (2013). Distributed circuits, not circumscribed cen
 
 Perrett, D. I., Rolls, E. T., & Caan, W. (1982). Visual neurones responsive to faces in the monkey temporal cortex. *Experimental Brain Research*, *47*(3), 329–342. https://doi.org/10.1007/BF00239352
 
+#### Assignment details
+
+**Discuss:**
+
+What do Kanwisher et al. mean when they say that fusiform cortex is i) a module that is ii) specialized for face perception? What is an alternative view?
+
 <!-- #### Lecture notes -->
 
 <!-- [html](lecture-notes/2017-02-21.html)</br> -->
@@ -47,6 +65,13 @@ Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurolo
 #### Optional
 
 Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and action. *Trends in Neurosciences*, *15*(1), 20–25. https://doi.org/10.1016/0166-2236(92)90344-8
+
+#### Assignment details
+
+**Discuss:**
+
+How do Goodale et al. distinguish between "perceiving objects" and the perceptual processing required to grasp them? Is this evidence for separable processing streams devoted to "perception" and "action"?
+
 
 <!-- #### Lecture notes -->
 
@@ -63,6 +88,12 @@ Kay, K. N., & Gallant, J. L. (2009). I can see what you see. *Nature Neuroscienc
 
 DeYoe, E. A., Bandettini, P., Neitz, J., Miller, D., & Winans, P. (1994). Functional magnetic resonance imaging (fMRI) of the human brain. *Journal of Neuroscience Methods*, *54*(2), 171–187. http://doi.org/10.1016/0165-0270(94)90191-0
 
+#### Assignment details
+
+**Discuss:**
+
+Why did the popular press reports of this work describe it as "mind-reading"? Is it?
+
 <!-- #### Lecture notes -->
 
 <!-- [html](lecture-notes/2017-02-28.html)</br> -->
@@ -75,6 +106,12 @@ Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D
 #### Optional
 
 Jonas, E., & Kording, K. P. (2017). Could a neuroscientist understand a microprocessor? *PLoS Computational Biology*, *13*(1), e1005268. Public Library of Science. Retrieved January 3, 2018, from http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005268&type=printable
+
+#### Assignment details
+
+**Discuss:**
+
+Does neuroscience need behavior? Why or why not?
 
 <!-- #### Lecture notes -->
 
