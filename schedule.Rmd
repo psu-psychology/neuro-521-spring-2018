@@ -32,10 +32,10 @@ As a reminder, your writing assignment document should be:
 - without your name on the document or in filename
 - upload your text via Turnitin
 
-<!-- #### Lecture notes -->
+#### Lecture notes
 
-<!-- [html](lecture-notes/2017-02-21.html)</br> -->
-<!-- [Rmd](lecture-notes/2017-02-21.Rmd) -->
+[HTML](slides/neuro-521-2018-01-30.html)</br>
+[Rmd](slides/neuro-521-2018-01-30.Rmd)
 
 ### Thu, February 1, 2018 • Face processing
 

@@ -1,0 +1,101 @@
+---
+title: "neuro-521-milner-goodale"
+author: "Rick O. Gilmore"
+date: '`r Sys.Date()`'
+output:
+  ioslides_presentation:
+    css: ../css/gilmore-ioslides.css
+    incremental: no
+    self-contained: yes
+    transition: default
+    widescreen: yes
+  html_document:
+    keep_md: yes
+    self_contained: yes
+  pdf_document:
+    latex_engine: xelatex
+    toc: yes
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# preliminaries
+
+## Topics
+
+- Visual processing in V1
+- Object processing
+- <span class="blue">Perception vs. action</span>
+- "Reading" the mind
+
+## Resources
+
+- Course web site: [psu-psychology.github.io/neuro-521-spring-2017](https://psu-psychology.github.io/neuro-521-spring-2017/schedule.html)
+
+# main event
+
+## Today's reading
+
+Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurological dissociation between perceiving objects and grasping them. Nature, 349(6305), 154–156. <https://doi.org/10.1038/349154a0>
+
+## "Visual Routes to Knowledge and Action: (almost) 25 Years of Two Visual Systems, Mel Goodale"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Te4xmwI1Y_k" frameborder="0" allowfullscreen></iframe>
+
+## Task
+
+<div class="centered">
+<a href="http://jn.physiology.org/content/99/4/1653">
+<img src="http://jn.physiology.org/content/jn/99/4/1653/F1.medium.gif">
+</a>
+</div>
+
+## Inspiration
+
+<div class="centered">
+<a href="http://www.cse.iitk.ac.in/users/amit/books/goodale-2004-sight-unseen-exploration.html">
+<img src="http://www.cse.iitk.ac.in/users/amit/books/img/goodale_wrong-hand-orientation-in-optic-ataxia.jpg">
+</a>
+</div>
+
+<div class="notes">
+"Marie-Thérèse Perenin and Alain Vighetto discovered that patients with 'optic ataxia' not only have problems reaching to point to something accurately, but also tend to direct their hand at the wrong angle when trying to pass it through a slot. The same patients, however, often have no problem describing the orientation of the slot in words"
+</div>
+
+
+## Questions
+
+- What are the strengths of neuropsychological methods?
+- What role do psychological/behavioral theories have on studies of brain function?
+
+## Two streams hypothesis
+
+- Schneider, G. E. (1969). Two Visual Systems. Science, 163(3870), 895–902. <https://doi.org/10.1126/science.163.3870.895>
+- Mishkin, M., Ungerleider, L. G., & Macko, K. A. (1983). Object vision and spatial vision: two cortical pathways. Trends in Neurosciences, 6, 414–417. <https://doi.org/10.1016/0166-2236(83)90190-X>
+- Ungerleider, L. G., & Pessoa, L. (2008). What and where pathways. Scholarpedia, 3(11), 5342. <https://doi.org/10.4249/scholarpedia.5342>
+
+## What and where pathways {.smaller} 
+
+<div class="centered">
+<a href="https://doi.org/10.4249/scholarpedia.5342">
+<img src="http://www.scholarpedia.org/w/images/thumb/6/66/Fig2_what_and_where_pathways.png/600px-Fig2_what_and_where_pathways.png"/>
+</a>
+
+## More recent views
+
+- Kravitz, D. J., Saleem, K. S., Baker, C. I., & Mishkin, M. (2011). A new neural framework for visuospatial processing. Nature Reviews Neuroscience, 12(4), 217–230. <https://doi.org/10.1038/nrn3008>
+- Freud, E., Plaut, D. C., & Behrmann, M. (2016). “What” Is Happening in the Dorsal Visual Pathway. Trends in Cognitive Sciences, 20(10), 773–784.    <https://doi.org/10.1016/j.tics.2016.08.003>
+
+## Parallel processing in vision {.smaller}
+
+<a href="http://webvision.med.utah.edu/book/part-ix-psychophysics-of-vision/the-primary-visual-cortex/">
+<div class="centered">
+<img src="http://webvision.med.utah.edu/imageswv/Visual-Cortex1.jpg" height=500px>
+</a>
+</div>
+
+Van Essen, D. C., Anderson, C. H., & Felleman, D. J. (1992). Information Processing in the Primate Visual System: An Integrated Systems Perspective. Science; Washington, 255(5043), 419.
+
