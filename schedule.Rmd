@@ -53,10 +53,10 @@ Perrett, D. I., Rolls, E. T., & Caan, W. (1982). Visual neurones responsive to f
 
 What do Kanwisher et al. mean when they say that fusiform cortex is i) a module that is ii) specialized for face perception? What is an alternative view?
 
-<!-- #### Lecture notes -->
+#### Lecture notes
 
-<!-- [html](lecture-notes/2017-02-21.html)</br> -->
-<!-- [Rmd](lecture-notes/2017-02-21.Rmd) -->
+[HTML](slides/neuro-521-2018-02-01.html)</br>
+[Rmd](slides/neuro-521-2018-02-01.Rmd)
 
 ### Tue, February 6, 2018 • Perception vs. action
 
