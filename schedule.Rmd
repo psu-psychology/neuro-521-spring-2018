@@ -72,11 +72,10 @@ Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception 
 
 How do Goodale et al. distinguish between "perceiving objects" and the perceptual processing required to grasp them? Is this evidence for separable processing streams devoted to "perception" and "action"?
 
+#### Lecture notes
 
-<!-- #### Lecture notes -->
-
-<!-- [html](lecture-notes/2017-02-23.html)</br> -->
-<!-- [Rmd](lecture-notes/2017-02-23.Rmd) -->
+[html](lecture-notes/neuro-521-2018-02-06.html)</br>
+[Rmd](lecture-notes/neuro-521-2018-02-06.Rmd)
 
 ### Tue, February 8, 2017 • "Reading" the mind via fMRI
 
