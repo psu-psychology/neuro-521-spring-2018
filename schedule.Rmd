@@ -95,8 +95,8 @@ Why did the popular press reports of this work describe it as "mind-reading"? Is
 
 <!-- #### Lecture notes -->
 
-<!-- [html](lecture-notes/2017-02-28.html)</br> -->
-<!-- [Rmd](lecture-notes/2017-02-28.Rmd) -->
+[html](slides/neuro-521-2018-02-08.html)</br>
+[Rmd](slides/neuro-521-2018-02-08.Rmd)
 
 ### Tues, February 13, 2018 • Does neuroscience need behavior?
 
