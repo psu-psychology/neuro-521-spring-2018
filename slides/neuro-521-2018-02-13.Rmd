@@ -42,6 +42,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience Needs Behavior: Correcting a Reductionist Bias. Neuron, 93(3), 480–490. Retrieved from http://dx.doi.org/10.1016/j.neuron.2016.12.041
 
+## Neuroscience is harder than physics
+
+---
+
+<div class="centered">
+<img src="https://raw.githubusercontent.com/gilmore-lab/sips-2017-databservatory/master/img/psych-harder-1.jpg" height=450px/>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://raw.githubusercontent.com/gilmore-lab/sips-2017-databservatory/master/img/psych-harder-2.jpg" height=450px/>
+</div>
+
 ---
 
 <div class="centered">
