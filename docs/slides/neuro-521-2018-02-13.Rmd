@@ -103,6 +103,12 @@ Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D
 <https://www.janelia.org/lab/branson-lab>
 
 ---
+
+<div class="centered">
+<img src="http://dericbownds.net/uploaded_images/bigdata.png" height=450px/>
+</div>
+
+---
 <div class="centered">
 <img src="http://cdn2.hubspot.net/hub/134568/file-1208368053-jpg/6-blind-men-hans.jpg" height=450px/>
 </div>
