@@ -1,0 +1,94 @@
+---
+title: "neuro-521-2018-02-13"
+author: "Rick O. Gilmore"
+date: '`r Sys.Date()`'
+output:
+  ioslides_presentation:
+    css: ../css/gilmore-ioslides.css
+    incremental: no
+    self-contained: yes
+    transition: default
+    widescreen: yes
+  html_document:
+    keep_md: yes
+    self_contained: yes
+  pdf_document:
+    latex_engine: xelatex
+    toc: yes
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# preliminaries
+
+## Topics
+
+- Visual processing in V1
+- Object processing
+- Perception vs. action
+- "Reading" the mind via fMRI
+- **Does neuroscience need behavior?**
+
+## Resources
+
+- Course web site: [psu-psychology.github.io/neuro-521-spring-2018](https://psu-psychology.github.io/neuro-521-spring-2018/schedule.html)
+
+# main event
+
+## Today's reading
+
+Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience Needs Behavior: Correcting a Reductionist Bias. Neuron, 93(3), 480–490. Retrieved from http://dx.doi.org/10.1016/j.neuron.2016.12.041
+
+---
+
+<div class="centered">
+<img src="https://raw.githubusercontent.com/psu-psychology/psy-511-scan-fdns-2017/master/lectures/img/swanson-2005-fig-1.jpg" height=450px/>
+
+[Swanson, 2005](http://dx.doi.org/10.1002/cne.20733)
+</div>
+
+---
+
+<div class="centered">
+<img src="https://raw.githubusercontent.com/psu-psychology/psy-511-scan-fdns-2017/master/lectures/img/swanson-2005-fig-3.jpg" height=450px/>
+
+[Swanson, 2005](http://dx.doi.org/10.1002/cne.20733)
+</div>
+
+---
+
+<div class="centered">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr1.jpg" height=450px/>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr2.jpg" height=450px/>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr3.jpg" height=450px/>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr4.jpg" height=450px/>
+</div>
+
+---
+
+<iframe src='https://players.brightcove.net/745466298001/0ebd4271-9bfe-44a7-92ac-ac42429de5e5_default/index.html?videoId=2086375448001' allowfullscreen frameborder=0></iframe>
+
+<https://www.janelia.org/lab/branson-lab>
+
+---
+<div class="centered">
+<img src="http://cdn2.hubspot.net/hub/134568/file-1208368053-jpg/6-blind-men-hans.jpg" height=450px/>
+</div>

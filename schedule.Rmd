@@ -112,7 +112,5 @@ Jonas, E., & Kording, K. P. (2017). Could a neuroscientist understand a micropro
 
 Does neuroscience need behavior? Why or why not?
 
-<!-- #### Lecture notes -->
-
-<!-- [html](lecture-notes/2017-02-28.html)</br> -->
-<!-- [Rmd](lecture-notes/2017-02-28.Rmd) -->
+[html](slides/neuro-521-2018-02-13.html)</br>
+[Rmd](slides/neuro-521-2018-02-13.Rmd)
